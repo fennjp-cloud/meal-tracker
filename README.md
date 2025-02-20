@@ -13,5 +13,5 @@ A simple **local app** to track **meals, workouts, macros, weight, and comments*
 
 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/YOUR_USERNAME/meal-tracker.git
+git clone https://github.com/fennjp-cloud/meal-tracker.git
 cd meal-tracker

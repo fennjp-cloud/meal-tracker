@@ -14,24 +14,23 @@ Built using **Python, SQLite, and Tkinter (ttkbootstrap)**, this app provides a 
 
 ---
 
-## **Installation & Setup**
-1️⃣ Clone the Repository
-To get started, clone the repository to your local machine:
-
+## 🛠 Installation & Setup
+### 1️⃣ Clone the Repository  
+To get started, clone the repository to your local machine:  
+```bash
 git clone https://github.com/fennjp-cloud/meal-tracker.git
 cd meal-tracker
-
-
 2️⃣ Install Dependencies
 Ensure you have Python 3.8+ installed. Then install the required packages:
 
+bash
+Copy
+Edit
 pip install -r requirements.txt
-
-
 3️⃣ Run the App
 Start the meal tracker by running:
 
+bash
+Copy
+Edit
 python meal_tracker.py
-
-
-

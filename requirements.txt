@@ -1,0 +1,4 @@
+# Required dependencies for the Meal Tracker App
+ttkbootstrap
+pandas
+sqlite3
